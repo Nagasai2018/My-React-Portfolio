@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/My-React-Portfolio/static/css/main.eda58647.css",
+    "main.js": "/My-React-Portfolio/static/js/main.cf116b51.js",
+    "static/media/Naga_Sai_Resume.pdf": "/My-React-Portfolio/static/media/Naga_Sai_Resume.a8e62141fd1a594e2a44.pdf",
+    "static/media/Project-bg.jpg": "/My-React-Portfolio/static/media/Project-bg.c9f8a6b996a3851ae448.jpg",
+    "static/media/aboutbg.jpg": "/My-React-Portfolio/static/media/aboutbg.4ad3a226ba82f52058e6.jpg",
+    "static/media/Homebg.jfif": "/My-React-Portfolio/static/media/Homebg.dd2749f8b67b35124fc8.jfif",
+    "static/media/Todo.png": "/My-React-Portfolio/static/media/Todo.a1d2b9dafbd670d62e06.png",
+    "static/media/Emoji.jfif": "/My-React-Portfolio/static/media/Emoji.73ee84ea818ade4ad132.jfif",
+    "static/media/Pro.jfif": "/My-React-Portfolio/static/media/Pro.6340b696f490b32b924c.jfif",
+    "index.html": "/My-React-Portfolio/index.html",
+    "main.eda58647.css.map": "/My-React-Portfolio/static/css/main.eda58647.css.map",
+    "main.cf116b51.js.map": "/My-React-Portfolio/static/js/main.cf116b51.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eda58647.css",
+    "static/js/main.cf116b51.js"
+  ]
+}

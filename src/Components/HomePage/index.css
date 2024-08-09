@@ -1,0 +1,21 @@
+.containers {
+    background-image: url("../../assets/Homebg.jfif");
+    background-size: cover;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .btn-container {
+    margin-top: 20px; /* Optional: To add space above the buttons */
+  }
+  
+  .me-3 {
+    margin-right: 1rem; /* Bootstrap utility for spacing */
+  }
+  

@@ -1,0 +1,43 @@
+.main-div {
+  background-image: url("../../assets/aboutbg.jpg");
+  background-size: cover;
+  height: 100vh;
+  width: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-white {
+  text-align: center;
+}
+
+.pb-5 {
+  padding-bottom: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.btn {
+  margin: 0 10px;
+}
+
+.content-div {
+  background-color: rgba(0, 0, 0, 0.61);
+  backdrop-filter: blur(5px);
+  width: 100vw;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 768px) {
+  .btn {
+    margin: 10px 0;
+  }
+}
